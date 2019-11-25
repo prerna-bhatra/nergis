@@ -214,12 +214,71 @@ margin-top:10px;
 	position: absolute;
 }
 
-
+#cake4
+{
+	letter-spacing: 10px;
+	text-align: center;
+}
 
 .main3
 {
 	display: grid;
-	grid-template-rows: 600px;
+	grid-template-rows:800px;
 	grid-template-columns: min-content repeat(3,1fr);
 	margin-top: 50px;
+	border-bottom:1px solid #c39730;
 }
+
+#juttie2
+{
+	letter-spacing:30px;
+	transform: rotate(90deg);
+	font-size:50px;
+}
+
+#double
+{
+	max-width: 120%;
+	position: absolute;
+	top: 20px;
+	left: -20px;
+}
+
+.text5
+{
+	position: absolute;
+	left: 20px;
+}
+
+.text6
+{
+	line-height:5px;
+	position: absolute;
+	left: 100px;
+}
+
+#prem
+{
+	position: absolute;
+	top: 200px;
+	left:80px;
+}
+.text8
+{
+	position: absolute;
+	line-height:5px;
+	text-align: center;
+	left:200px;
+}
+
+
+.text7
+{
+	position: absolute;
+	line-height:5px;
+	text-align: center;
+	top:270px;
+	left: 30px;
+}
+
+
